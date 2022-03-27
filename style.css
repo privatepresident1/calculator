@@ -10,7 +10,7 @@
     padding: 16px 8px;
     font-size: 25px;
     color: white;
-    font-family: 'Creepster', cursive;
+    
     
 }
 .buttons{
@@ -19,7 +19,7 @@
     border-left: 1px solid #999 ;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     color: white;
-    font-family: 'Creepster', cursive;
+    
 
 }
 .buttons div{
@@ -35,7 +35,7 @@
     font-size: 25px;
     cursor: pointer;
     color: white;
-    font-family: 'Creepster', cursive;
+    
 }
 h1{
     color: black;
