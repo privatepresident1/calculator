@@ -10,6 +10,7 @@
     padding: 16px 8px;
     font-size: 25px;
     color: white;
+    font-family: 'Creepster', cursive;
     
 }
 .buttons{
@@ -18,6 +19,7 @@
     border-left: 1px solid #999 ;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     color: white;
+    font-family: 'Creepster', cursive;
 
 }
 .buttons div{
@@ -33,24 +35,28 @@
     font-size: 25px;
     cursor: pointer;
     color: white;
+    font-family: 'Creepster', cursive;
 }
 h1{
-    color: red;
+    color: black;
     text-align: center;
     font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: yellow;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Creepster', cursive;
+    font-family: 'Press Start 2P', cursive;
+    background-color: white;
 }
+
 .wrap{
     border-radius: 1px solid rgb(180, 92, 231);
-    border: 5px solid purple;
-    background-color: yellow;
+    border: 5px solid rgb(29, 4, 248) ;
+    background-color: white;
 }
 body{
     background-color: black;
 }
 #equal{
-    background-color: rgb(115, 14, 247);
+    background-color: rgb(29, 4, 248);
 color: white;}
 .button:hover{
     background-color: red;
