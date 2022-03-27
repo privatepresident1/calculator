@@ -10,6 +10,8 @@
     padding: 16px 8px;
     font-size: 25px;
     color: white;
+    background-color: blue;
+    border: 8px solid black;
     
     
 }
@@ -19,6 +21,9 @@
     border-left: 1px solid #999 ;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     color: white;
+    font-weight: bolder;
+
+    
     
 
 }
@@ -35,6 +40,8 @@
     font-size: 25px;
     cursor: pointer;
     color: white;
+    border-radius: 50%;
+    margin: 2px;
     
 }
 h1{
@@ -42,8 +49,7 @@ h1{
     text-align: center;
     font-size: 40px;
     /* font-family: 'Press Start 2P', cursive; */
-    font-family: 'Chewy', cursive;
-    
+    font-family: 'Creepster',cursive;
     /* font-family: 'Press Start 2P', cursive; */
     background-color: white;
 }
@@ -54,13 +60,51 @@ h1{
     background-color: white;
 }
 body{
-    background-color: black;
+    background-color: rgb(4, 0, 5);
 }
 #equal{
     background-color: rgb(29, 4, 248);
 color: white;}
 .button:hover{
-    background-color: red;
+    background-color:brown;
     color: white;
     transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.one{
+    background-color:chartreuse;
+    font-weight: bolder;
+}
+.two{
+    background-color: red;
+    font-weight: bolder;
+}
+.three{
+    background-color: cyan;
+    font-weight:bolder;
+}
+.four{
+ background-color: yellow;
+ font-weight: bolder;
+
+
+}
+.five{
+background-color:rgb(248, 2, 248) ;
+font-weight: bolder;
+}
+.six{
+    background-color: rgb(252, 123, 4);
+    font-weight: bolder;
+}
+.seven{
+background-color: rgba(73, 241, 253, 0.568);
+font-weight: bolder;
+}
+.eight{
+    background-color: rgba(42, 6, 248, 0.568);
+    font-weight: bolder;
+}
+.nine{
+    background-color: rgba(73, 241, 253, 0.568);
+    font-weight: bolder;
 }
